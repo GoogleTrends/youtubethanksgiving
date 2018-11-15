@@ -1,0 +1,408 @@
+food,state,value
+apple_pie,District of Columbia,100
+apple_pie,Vermont,73
+apple_pie,Montana,70
+apple_pie,Maine,57
+apple_pie,Idaho,56
+apple_pie,Massachusetts,53
+apple_pie,Delaware,53
+apple_pie,New York,52
+apple_pie,Nebraska,51
+apple_pie,Washington,50
+apple_pie,New Mexico,47
+apple_pie,Maryland,47
+apple_pie,New Jersey,46
+apple_pie,Michigan,46
+apple_pie,South Carolina,46
+apple_pie,Alabama,45
+apple_pie,Utah,44
+apple_pie,Virginia,44
+apple_pie,Minnesota,44
+apple_pie,Pennsylvania,43
+apple_pie,Illinois,43
+apple_pie,New Hampshire,43
+apple_pie,Oregon,42
+apple_pie,Ohio,42
+apple_pie,Iowa,41
+apple_pie,Colorado,41
+apple_pie,West Virginia,41
+apple_pie,Mississippi,41
+apple_pie,Connecticut,41
+apple_pie,Indiana,40
+apple_pie,North Carolina,40
+apple_pie,North Dakota,40
+apple_pie,Hawaii,39
+apple_pie,California,39
+apple_pie,Oklahoma,38
+apple_pie,Rhode Island,37
+apple_pie,Kansas,37
+apple_pie,Tennessee,37
+apple_pie,Wisconsin,37
+apple_pie,Texas,37
+apple_pie,Georgia,37
+apple_pie,Louisiana,37
+apple_pie,Florida,37
+apple_pie,Arizona,36
+apple_pie,Arkansas,35
+apple_pie,Wyoming,34
+apple_pie,Nevada,34
+apple_pie,Missouri,32
+apple_pie,Kentucky,31
+apple_pie,South Dakota,24
+apple_pie,Alaska,20
+cranberry_sauce,Alabama,39
+cranberry_sauce,Alaska,100
+cranberry_sauce,Arizona,28
+cranberry_sauce,Arkansas,19
+cranberry_sauce,California,36
+cranberry_sauce,Colorado,41
+cranberry_sauce,Connecticut,31
+cranberry_sauce,Delaware,74
+cranberry_sauce,Florida,34
+cranberry_sauce,Georgia,28
+cranberry_sauce,Hawaii,33
+cranberry_sauce,Idaho,24
+cranberry_sauce,Illinois,29
+cranberry_sauce,Indiana,26
+cranberry_sauce,Iowa,12
+cranberry_sauce,Kansas,50
+cranberry_sauce,Kentucky,38
+cranberry_sauce,Louisiana,35
+cranberry_sauce,Maine,40
+cranberry_sauce,Maryland,28
+cranberry_sauce,Massachusetts,36
+cranberry_sauce,Michigan,28
+cranberry_sauce,Minnesota,29
+cranberry_sauce,Mississippi,
+cranberry_sauce,Missouri,9
+cranberry_sauce,Montana,
+cranberry_sauce,Nebraska,17
+cranberry_sauce,Nevada,47
+cranberry_sauce,New Hampshire,80
+cranberry_sauce,New Jersey,38
+cranberry_sauce,New Mexico,45
+cranberry_sauce,New York,35
+cranberry_sauce,North Carolina,25
+cranberry_sauce,North Dakota,88
+cranberry_sauce,Ohio,25
+cranberry_sauce,Oklahoma,36
+cranberry_sauce,Oregon,33
+cranberry_sauce,Pennsylvania,35
+cranberry_sauce,Rhode Island,25
+cranberry_sauce,South Carolina,25
+cranberry_sauce,South Dakota,
+cranberry_sauce,Tennessee,28
+cranberry_sauce,Texas,26
+cranberry_sauce,Utah,36
+cranberry_sauce,Vermont,
+cranberry_sauce,Virginia,39
+cranberry_sauce,Washington,45
+cranberry_sauce,West Virginia,
+cranberry_sauce,Wisconsin,32
+cranberry_sauce,Wyoming,
+mashed_potatoes,Alabama,48
+mashed_potatoes,Alaska,100
+mashed_potatoes,Arizona,61
+mashed_potatoes,Arkansas,46
+mashed_potatoes,California,75
+mashed_potatoes,Colorado,56
+mashed_potatoes,Connecticut,75
+mashed_potatoes,Delaware,84
+mashed_potatoes,District of Columbia,43
+mashed_potatoes,Florida,60
+mashed_potatoes,Georgia,48
+mashed_potatoes,Hawaii,46
+mashed_potatoes,Idaho,59
+mashed_potatoes,Illinois,61
+mashed_potatoes,Indiana,55
+mashed_potatoes,Iowa,62
+mashed_potatoes,Kansas,60
+mashed_potatoes,Kentucky,45
+mashed_potatoes,Louisiana,47
+mashed_potatoes,Maine,51
+mashed_potatoes,Maryland,58
+mashed_potatoes,Massachusetts,59
+mashed_potatoes,Michigan,51
+mashed_potatoes,Minnesota,50
+mashed_potatoes,Mississippi,42
+mashed_potatoes,Missouri,46
+mashed_potatoes,Montana,57
+mashed_potatoes,Nebraska,49
+mashed_potatoes,Nevada,60
+mashed_potatoes,New Hampshire,50
+mashed_potatoes,New Jersey,64
+mashed_potatoes,New Mexico,48
+mashed_potatoes,New York,66
+mashed_potatoes,North Carolina,45
+mashed_potatoes,North Dakota,54
+mashed_potatoes,Ohio,51
+mashed_potatoes,Oklahoma,62
+mashed_potatoes,Oregon,51
+mashed_potatoes,Pennsylvania,56
+mashed_potatoes,Rhode Island,61
+mashed_potatoes,South Carolina,56
+mashed_potatoes,South Dakota,78
+mashed_potatoes,Tennessee,44
+mashed_potatoes,Texas,59
+mashed_potatoes,Utah,62
+mashed_potatoes,Vermont,27
+mashed_potatoes,Virginia,55
+mashed_potatoes,Washington,64
+mashed_potatoes,West Virginia,35
+mashed_potatoes,Wisconsin,48
+mashed_potatoes,Wyoming,49
+pecan_pie,Alabama,39
+pecan_pie,Alaska,
+pecan_pie,Arizona,25
+pecan_pie,Arkansas,49
+pecan_pie,California,24
+pecan_pie,Colorado,30
+pecan_pie,Connecticut,24
+pecan_pie,Delaware,20
+pecan_pie,District of Columbia,
+pecan_pie,Florida,25
+pecan_pie,Georgia,29
+pecan_pie,Hawaii,27
+pecan_pie,Idaho,53
+pecan_pie,Illinois,20
+pecan_pie,Indiana,37
+pecan_pie,Iowa,20
+pecan_pie,Kansas,48
+pecan_pie,Kentucky,39
+pecan_pie,Louisiana,37
+pecan_pie,Maine,45
+pecan_pie,Maryland,19
+pecan_pie,Massachusetts,20
+pecan_pie,Michigan,21
+pecan_pie,Minnesota,24
+pecan_pie,Mississippi,80
+pecan_pie,Missouri,26
+pecan_pie,Montana,
+pecan_pie,Nebraska,22
+pecan_pie,Nevada,24
+pecan_pie,New Hampshire,18
+pecan_pie,New Jersey,21
+pecan_pie,New Mexico,49
+pecan_pie,New York,23
+pecan_pie,North Carolina,36
+pecan_pie,North Dakota,49
+pecan_pie,Ohio,23
+pecan_pie,Oklahoma,59
+pecan_pie,Oregon,24
+pecan_pie,Pennsylvania,26
+pecan_pie,Rhode Island,21
+pecan_pie,South Carolina,28
+pecan_pie,South Dakota,
+pecan_pie,Tennessee,46
+pecan_pie,Texas,54
+pecan_pie,Utah,18
+pecan_pie,Vermont,100
+pecan_pie,Virginia,24
+pecan_pie,Washington,27
+pecan_pie,West Virginia,26
+pecan_pie,Wisconsin,23
+pecan_pie,Wyoming,41
+pie,Alabama,82
+pie,Alaska,94
+pie,Arizona,74
+pie,Arkansas,80
+pie,California,71
+pie,Colorado,74
+pie,Connecticut,88
+pie,Delaware,71
+pie,District of Columbia,93
+pie,Florida,71
+pie,Georgia,76
+pie,Hawaii,89
+pie,Idaho,85
+pie,Illinois,77
+pie,Indiana,82
+pie,Iowa,84
+pie,Kansas,82
+pie,Kentucky,81
+pie,Louisiana,82
+pie,Maine,92
+pie,Maryland,77
+pie,Massachusetts,84
+pie,Michigan,85
+pie,Minnesota,78
+pie,Mississippi,90
+pie,Missouri,83
+pie,Montana,93
+pie,Nebraska,81
+pie,Nevada,74
+pie,New Hampshire,89
+pie,New Jersey,73
+pie,New Mexico,89
+pie,New York,77
+pie,North Carolina,80
+pie,North Dakota,95
+pie,Ohio,86
+pie,Oklahoma,79
+pie,Oregon,88
+pie,Pennsylvania,84
+pie,Rhode Island,78
+pie,South Carolina,82
+pie,South Dakota,75
+pie,Tennessee,79
+pie,Texas,69
+pie,Utah,84
+pie,Vermont,100
+pie,Virginia,87
+pie,Washington,84
+pie,West Virginia,84
+pie,Wisconsin,81
+pie,Wyoming,79
+pumpkin_pie,Alabama,33
+pumpkin_pie,Alaska,75
+pumpkin_pie,Arizona,54
+pumpkin_pie,Arkansas,40
+pumpkin_pie,California,56
+pumpkin_pie,Colorado,73
+pumpkin_pie,Connecticut,37
+pumpkin_pie,Delaware,41
+pumpkin_pie,District of Columbia,95
+pumpkin_pie,Florida,44
+pumpkin_pie,Georgia,30
+pumpkin_pie,Hawaii,60
+pumpkin_pie,Idaho,61
+pumpkin_pie,Illinois,43
+pumpkin_pie,Indiana,41
+pumpkin_pie,Iowa,49
+pumpkin_pie,Kansas,49
+pumpkin_pie,Kentucky,39
+pumpkin_pie,Louisiana,37
+pumpkin_pie,Maine,75
+pumpkin_pie,Maryland,42
+pumpkin_pie,Massachusetts,40
+pumpkin_pie,Michigan,46
+pumpkin_pie,Minnesota,43
+pumpkin_pie,Mississippi,29
+pumpkin_pie,Missouri,47
+pumpkin_pie,Montana,71
+pumpkin_pie,Nebraska,67
+pumpkin_pie,Nevada,55
+pumpkin_pie,New Hampshire,40
+pumpkin_pie,New Jersey,37
+pumpkin_pie,New Mexico,100
+pumpkin_pie,New York,51
+pumpkin_pie,North Carolina,38
+pumpkin_pie,North Dakota,73
+pumpkin_pie,Ohio,58
+pumpkin_pie,Oklahoma,41
+pumpkin_pie,Oregon,79
+pumpkin_pie,Pennsylvania,53
+pumpkin_pie,Rhode Island,49
+pumpkin_pie,South Carolina,35
+pumpkin_pie,South Dakota,45
+pumpkin_pie,Tennessee,38
+pumpkin_pie,Texas,42
+pumpkin_pie,Utah,60
+pumpkin_pie,Vermont,42
+pumpkin_pie,Virginia,46
+pumpkin_pie,Washington,66
+pumpkin_pie,West Virginia,29
+pumpkin_pie,Wisconsin,44
+pumpkin_pie,Wyoming,21
+stuffing,Alabama,31
+stuffing,Alaska,77
+stuffing,Arizona,34
+stuffing,Arkansas,30
+stuffing,California,35
+stuffing,Colorado,33
+stuffing,Connecticut,62
+stuffing,Delaware,33
+stuffing,District of Columbia,46
+stuffing,Florida,37
+stuffing,Georgia,33
+stuffing,Hawaii,55
+stuffing,Idaho,38
+stuffing,Illinois,39
+stuffing,Indiana,38
+stuffing,Iowa,24
+stuffing,Kansas,52
+stuffing,Kentucky,41
+stuffing,Louisiana,32
+stuffing,Maine,40
+stuffing,Maryland,40
+stuffing,Massachusetts,53
+stuffing,Michigan,44
+stuffing,Minnesota,41
+stuffing,Mississippi,28
+stuffing,Missouri,41
+stuffing,Montana,24
+stuffing,Nebraska,20
+stuffing,Nevada,24
+stuffing,New Hampshire,100
+stuffing,New Jersey,39
+stuffing,New Mexico,34
+stuffing,New York,43
+stuffing,North Carolina,37
+stuffing,North Dakota,83
+stuffing,Ohio,47
+stuffing,Oklahoma,36
+stuffing,Oregon,42
+stuffing,Pennsylvania,54
+stuffing,Rhode Island,50
+stuffing,South Carolina,46
+stuffing,South Dakota,50
+stuffing,Tennessee,36
+stuffing,Texas,30
+stuffing,Utah,32
+stuffing,Vermont,72
+stuffing,Virginia,41
+stuffing,Washington,40
+stuffing,West Virginia,45
+stuffing,Wisconsin,53
+stuffing,Wyoming,18
+turkey,Alabama,84
+turkey,Alaska,63
+turkey,Arizona,60
+turkey,Arkansas,71
+turkey,California,56
+turkey,Colorado,60
+turkey,Connecticut,63
+turkey,Delaware,75
+turkey,District of Columbia,76
+turkey,Florida,56
+turkey,Georgia,70
+turkey,Hawaii,61
+turkey,Idaho,71
+turkey,Illinois,64
+turkey,Indiana,68
+turkey,Iowa,78
+turkey,Kansas,71
+turkey,Kentucky,89
+turkey,Louisiana,68
+turkey,Maine,82
+turkey,Maryland,66
+turkey,Massachusetts,60
+turkey,Michigan,70
+turkey,Minnesota,74
+turkey,Mississippi,80
+turkey,Missouri,81
+turkey,Montana,66
+turkey,Nebraska,76
+turkey,Nevada,52
+turkey,New Hampshire,83
+turkey,New Jersey,54
+turkey,New Mexico,74
+turkey,New York,60
+turkey,North Carolina,70
+turkey,North Dakota,85
+turkey,Ohio,71
+turkey,Oklahoma,67
+turkey,Oregon,66
+turkey,Pennsylvania,72
+turkey,Rhode Island,62
+turkey,South Carolina,79
+turkey,South Dakota,75
+turkey,Tennessee,78
+turkey,Texas,55
+turkey,Utah,66
+turkey,Vermont,96
+turkey,Virginia,75
+turkey,Washington,64
+turkey,West Virginia,100
+turkey,Wisconsin,83
+turkey,Wyoming,64
